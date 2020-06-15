@@ -525,6 +525,6 @@ var data2 = Data2.min()
 console.log("Array items: "+Data2+"The largest number is "+data2)
 // task 10
 for(var i=5; i<=100; i = i+5){
-    alert(i)
+    alert(i);
 }
 
